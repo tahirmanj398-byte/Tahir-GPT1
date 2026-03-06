@@ -1,0 +1,7 @@
+{
+  "name": "Remix: Tahir GPT1",
+  "description": "The ultimate AI platform for high-performance creativity. Featuring advanced chat, image generation, and instant website deployment.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
